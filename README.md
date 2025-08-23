@@ -1,4 +1,5 @@
 🏥 Healthcare Analytics Dashboard (Power BI)
+
 📌 Project Overview
 
 This project is a Healthcare Analytics Dashboard built in Power BI to analyze and visualize patient data.
@@ -31,10 +32,15 @@ Month – Month of patient visit
 🔑 Key Insights from Dashboard
 
 ✔️ Total Patients: 5000
+
 ✔️ Treatment Cost Range: Min – 51 | Max – 4999 | Avg – 2.54K
+
 ✔️ Top Diagnoses by Count: Fracture, Asthma, Migraine, Hypertension
+
 ✔️ Claim Status: Balanced distribution across Approved, Pending, Rejected
+
 ✔️ Doctor Specialization: Cardiology & Pediatrics handled the highest cases
+
 ✔️ Monthly Trend: Patient visits peak in January, dip in February
 
 
