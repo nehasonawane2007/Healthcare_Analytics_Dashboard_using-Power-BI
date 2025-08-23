@@ -8,29 +8,25 @@ The dashboard provides insights into patient count, treatment costs, claim statu
 It helps healthcare organizations make data-driven decisions by tracking performance, treatment costs, and patient health metrics.
 
 
-
-
 📂 Dataset
 
 The dataset used for this project: Healthcare_Dataset.csv
 
 Key Columns:
 
-Patient_ID – Unique identifier for each patient
+- Patient_ID – Unique identifier for each patient
 
-Gender – Male / Female / Other
+- Gender – Male / Female / Other
 
-Diagnosis – Type of disease/condition (e.g., Diabetes, Cancer, Flu, etc.)
+- Diagnosis – Type of disease/condition (e.g., Diabetes, Cancer, Flu, etc.)
 
-Treatment_Cost – Cost incurred for treatment
+- Treatment_Cost – Cost incurred for treatment
 
-Claim_Status – Approved, Pending, or Rejected
+- Claim_Status – Approved, Pending, or Rejected
 
-Doctor_Name & Specialization – Consulting doctor details
+- Doctor_Name & Specialization – Consulting doctor details
 
-Month – Month of patient visit
-
-
+- Month – Month of patient visit
 
 
 🔑 Key Insights from Dashboard
@@ -48,8 +44,6 @@ Month – Month of patient visit
 ✔️ Monthly Trend: Patient visits peak in January, dip in February
 
 
-
-
 📌 Features of Dashboard
 
 - Interactive filters for Location, Diagnosis, Gender, Claim Status
@@ -65,8 +59,6 @@ Month – Month of patient visit
 - Key metrics cards for quick overview
 
 
-
-
 🚀 Tools & Technologies Used
 
 Power BI – Data Visualization & Dashboard Creation
@@ -74,8 +66,6 @@ Power BI – Data Visualization & Dashboard Creation
 Excel / CSV – Data Source
 
 DAX – For calculated measures and KPIs
-
-
 
 
 📂 Repository Structure
@@ -91,8 +81,6 @@ DAX – For calculated measures and KPIs
 │── 📄 README.md                    # Project Documentation
 
 
-
-
 🎯 Use Cases
 
 - Hospital Management – Monitor patient inflow, diagnosis, and treatment costs
@@ -104,8 +92,6 @@ DAX – For calculated measures and KPIs
 - Doctors/Administrators – Evaluate specialization performance
 
 
-
-
 📌 How to Use
 
 - Download the PBIX file from this repository.
@@ -115,8 +101,6 @@ DAX – For calculated measures and KPIs
 - Connect/replace with your dataset (if required).
 
 - Explore the interactive dashboard.
-
-
 
 
 📬 Contact
