@@ -8,6 +8,8 @@ The dashboard provides insights into patient count, treatment costs, claim statu
 It helps healthcare organizations make data-driven decisions by tracking performance, treatment costs, and patient health metrics.
 
 
+
+
 📂 Dataset
 
 The dataset used for this project: Healthcare_Dataset.csv
@@ -29,6 +31,8 @@ Doctor_Name & Specialization – Consulting doctor details
 Month – Month of patient visit
 
 
+
+
 🔑 Key Insights from Dashboard
 
 ✔️ Total Patients: 5000
@@ -44,19 +48,23 @@ Month – Month of patient visit
 ✔️ Monthly Trend: Patient visits peak in January, dip in February
 
 
+
+
 📌 Features of Dashboard
 
-Interactive filters for Location, Diagnosis, Gender, Claim Status
+- Interactive filters for Location, Diagnosis, Gender, Claim Status
 
-Donut chart showing patient distribution by diagnosis
+- Donut chart showing patient distribution by diagnosis
 
-Line chart for patient count trends across months
+- Line chart for patient count trends across months
 
-Bar chart for claim status distribution
+- Bar chart for claim status distribution
 
-Doctor-wise specialization table with patient count
+- Doctor-wise specialization table with patient count
 
-Key metrics cards for quick overview
+- Key metrics cards for quick overview
+
+
 
 
 🚀 Tools & Technologies Used
@@ -66,6 +74,8 @@ Power BI – Data Visualization & Dashboard Creation
 Excel / CSV – Data Source
 
 DAX – For calculated measures and KPIs
+
+
 
 
 📂 Repository Structure
@@ -81,26 +91,32 @@ DAX – For calculated measures and KPIs
 │── 📄 README.md                    # Project Documentation
 
 
+
+
 🎯 Use Cases
 
-Hospital Management – Monitor patient inflow, diagnosis, and treatment costs
+- Hospital Management – Monitor patient inflow, diagnosis, and treatment costs
 
-Insurance Companies – Track claim approvals/rejections
+- Insurance Companies – Track claim approvals/rejections
 
-Healthcare Analysts – Identify seasonal trends and high-cost treatments
+- Healthcare Analysts – Identify seasonal trends and high-cost treatments
 
-Doctors/Administrators – Evaluate specialization performance
+- Doctors/Administrators – Evaluate specialization performance
+
+
 
 
 📌 How to Use
 
-Download the PBIX file from this repository.
+- Download the PBIX file from this repository.
 
-Open it in Power BI Desktop.
+- Open it in Power BI Desktop.
 
-Connect/replace with your dataset (if required).
+- Connect/replace with your dataset (if required).
 
-Explore the interactive dashboard.
+- Explore the interactive dashboard.
+
+
 
 
 📬 Contact
