@@ -45,7 +45,6 @@ Key Columns:
 
 
 📌 Features of Dashboard
-
 - Interactive filters for Location, Diagnosis, Gender, Claim Status
 
 - Donut chart showing patient distribution by diagnosis
