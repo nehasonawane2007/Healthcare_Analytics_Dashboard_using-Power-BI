@@ -1,6 +1,6 @@
 🏥 Healthcare Analytics Dashboard (Power BI)
 
-📌 Project Overview
+🚀 Project Overview
 
 This project is a Healthcare Analytics Dashboard built in Power BI to analyze and visualize patient data.
 The dashboard provides insights into patient count, treatment costs, claim status, doctor specialization, and diagnosis trends.
@@ -59,7 +59,7 @@ Key Columns:
 - Key metrics cards for quick overview
 
 
-🚀 Tools & Technologies Used
+📌 Tools & Technologies Used
 
 Power BI – Data Visualization & Dashboard Creation
 
@@ -68,17 +68,17 @@ Excel / CSV – Data Source
 DAX – For calculated measures and KPIs
 
 
-📂 Repository Structure
+📌 Repository Structure
 
 📁 Healthcare-Analytics-Dashboard
 
-│── 📊 Healthcare_Dataset.csv       # Dataset
+📊 Healthcare_Dataset.csv       # Dataset
 
-│── 📊 Healthcare_Dashboard.pbix    # Power BI file
+📊 Healthcare_Dashboard.pbix    # Power BI file
 
-│── 📸 Healthcare_Dashboard.png     # Dashboard screenshot
+📸 Healthcare_Dashboard.png     # Dashboard screenshot
 
-│── 📄 README.md                    # Project Documentation
+📄 README.md                    # Project Documentation
 
 
 🎯 Use Cases
