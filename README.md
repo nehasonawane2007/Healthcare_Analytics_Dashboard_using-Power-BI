@@ -72,13 +72,13 @@ DAX – For calculated measures and KPIs
 
 📁 Healthcare-Analytics-Dashboard
 
-📊 Healthcare_Dataset.csv       # Dataset
+📊 Healthcare_Dataset.csv         # Dataset
 
-📊 Healthcare_Dashboard.pbix    # Power BI file
+📊 Healthcare_Dashboard.pbix      # Power BI file
 
-📸 Healthcare_Dashboard.png     # Dashboard screenshot
+📸 Healthcare_Dashboard.png       # Dashboard screenshot
 
-📄 README.md                    # Project Documentation
+📄 README.md                      # Project Documentation
 
 
 🎯 Use Cases
